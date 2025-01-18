@@ -21,7 +21,7 @@ Robert-Ai is an innovative application designed to provide empathetic emotional 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nova-fibeyli/Robert-Ai.git
+https://github.com/nova-fibeyli/Robert-ai-as-your-Law-consultant.git
    cd Robert-Ai
    ```
 
