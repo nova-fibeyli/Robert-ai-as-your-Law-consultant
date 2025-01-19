@@ -21,7 +21,7 @@ Robert-Ai is an innovative application designed to provide empathetic emotional 
 1. Clone the repository:
 
    ```bash
-https://github.com/nova-fibeyli/Robert-ai-as-your-Law-consultant.git
+   git clone https://github.com/nova-fibeyli/Robert-Ai.git
    cd Robert-Ai
    ```
 
@@ -35,30 +35,29 @@ https://github.com/nova-fibeyli/Robert-ai-as-your-Law-consultant.git
 1. Start the application by running:
 
    ```bash
-   streamlit run src/app.py
+   streamlit run C:\law_consultant_robert\constitution_app\src\app.py
    ```
 
 2. Enter your questions or messages, and Robert-Ai will respond empathetically.
 3. **Upload files** (.txt, .pdf, .docx) and ask **questions** about their content.
 4. Retrieve **document-specific responses** and engage with uploaded materials interactively.
 
+Also if you want more precise answers you could run:
+streamlit run C:\law_consultant_robert\constitution_app\src\app_alt.py
+
 ## Technologies Used
 
 - **Python**: The backbone of this application for efficient scripting and development.
-- **MongoDB**: A NoSQL database to store conversation history and facilitate dynamic responses.
+- **MongoDB**: A NoSQL database to store conversation history and facilitate dynamic responses. You can use robertaichatbot@gmail.com - mail and ktX-dxf-D6P-T8G - password to log in into: https://account.mongodb.com/account/login?signedOut=true. In order to check database connection and all logs.
 - **Streamlit**: An interactive and intuitive framework for creating a friendly UI.
 - **Ollama**: Advanced AI language models that enhance Robert-Ai's conversational capabilities.
 - **PyMuPDF (fitz)**: Extracts text from uploaded PDF documents.
 - **pymongo**: Enables communication between Robert-Ai and MongoDB.
 
-## Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apche 2.0  License.
 
 ## Repository
 
-Visit the project repository at [Robert-Ai GitHub Repository](https://github.com/nova-fibeyli/Robert-Ai.git).
+Visit the project repository at [Robert-Ai GitHub Repository](https://github.com/nova-fibeyli/Robert-ai-as-your-Law-consultant.git).
