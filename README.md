@@ -1,8 +1,8 @@
-# Robert-Ai: Empathic Emotional Support Robo Friend
+# Robert-Ai: Empathic Law Robo Support
 
 ## Overview
 
-Robert-Ai is an innovative application designed to provide empathetic emotional support. This bot combines cutting-edge technologies to deliver meaningful and helpful interactions for users seeking companionship and understanding.
+Robert-Ai is an innovative application designed to provide empathetic emotional support. This bot combines cutting-edge technologies to deliver meaningful and helpful interactions for users seeking companionship and understanding. And with new update he is now your in pocket law-consultant!
 
 ## Key Features
 
@@ -15,14 +15,15 @@ Robert-Ai is an innovative application designed to provide empathetic emotional 
   - Supports **.txt, .pdf, and .docx** file uploads.
   - Extracts and processes content to provide **relevant responses** within the document's context.
   - Enhances user experience by offering meaningful document-based insights.
+  - Provides clear incights and consulatation regarding juridical system of Kazakhstan
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nova-fibeyli/Robert-Ai.git
-   cd Robert-Ai
+   git clone https://github.com/nova-fibeyli/Robert-ai-as-your-Law-consultant.git
+   cd Robert-ai-as-your-Law-consultant
    ```
 
 2. Install the required dependencies:
@@ -53,6 +54,7 @@ streamlit run C:\law_consultant_robert\constitution_app\src\app_alt.py
 - **Ollama**: Advanced AI language models that enhance Robert-Ai's conversational capabilities.
 - **PyMuPDF (fitz)**: Extracts text from uploaded PDF documents.
 - **pymongo**: Enables communication between Robert-Ai and MongoDB.
+- **json**: Used to create a custom dataset based on constitution of Republic Kazakhstan.
 
 ## License
 
