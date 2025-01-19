@@ -1,0 +1,9 @@
+streamlit
+pymongo
+llama-index
+ollama
+pymupdf
+transformers
+flake8
+transformers
+torch torchvision torchaudio
