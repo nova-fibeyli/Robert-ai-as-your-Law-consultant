@@ -49,7 +49,7 @@ streamlit run C:\law_consultant_robert\constitution_app\src\app_alt.py
 ## Technologies Used
 
 - **Python**: The backbone of this application for efficient scripting and development.
-- **MongoDB**: A NoSQL database to store conversation history and facilitate dynamic responses. You can use robertaichatbot@gmail.com - mail and ktX-dxf-D6P-T8G - password to log in into: https://account.mongodb.com/account/login?signedOut=true. In order to check database connection and all logs.
+- **MongoDB**: A NoSQL database to store conversation history and facilitate dynamic responses. Log in into: https://account.mongodb.com/account/login?signedOut=true. In order to check database connection and all logs.
 - **Streamlit**: An interactive and intuitive framework for creating a friendly UI.
 - **Ollama**: Advanced AI language models that enhance Robert-Ai's conversational capabilities.
 - **PyMuPDF (fitz)**: Extracts text from uploaded PDF documents.
